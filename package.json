@@ -2,9 +2,9 @@
   "name": "5.-codewars",
   "version": "1.0.0",
   "description": "",
-  "main": "Ejercicio5.js",
+  "main": "Ejercicio6.js",
   "scripts": {
-    "start": "nodemon Ejercicio5.js",
+    "start": "nodemon Ejercicio6.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

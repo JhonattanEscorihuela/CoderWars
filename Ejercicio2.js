@@ -1,5 +1,3 @@
-
-
 let numero = 62563123;
 
 numero = numero.toString().split("");

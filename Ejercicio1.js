@@ -1,5 +1,3 @@
-
-
 function toCamelCase(str) {
 
     let split;

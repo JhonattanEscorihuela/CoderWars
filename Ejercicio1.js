@@ -1,5 +1,4 @@
 function toCamelCase(str) {
-
     let split;
 
     if (str.includes("_") || str.includes("-")) {

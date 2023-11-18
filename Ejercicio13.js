@@ -13,7 +13,6 @@ function digitalRoot(n) {
     } else {
         return out;
     }
-
 }
 
 console.log(digitalRoot(942));

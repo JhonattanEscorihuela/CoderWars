@@ -6,7 +6,6 @@ function generateHashtag(str) {
     return hashtag.length > 140 || str.trim() === "" ? false : hashtag;
 }
 
-
 console.log(generateHashtag("Do We have A Hashtag"));
 console.log(generateHashtag(""));
 console.log(generateHashtag("code" + " ".repeat(140) + "wars"));

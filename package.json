@@ -4,7 +4,7 @@
   "description": "",
   "main": "Ejercicio1.js",
   "scripts": {
-    "start": "nodemon Ejercicio20.js",
+    "start": "nodemon Ejercicio21.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
